@@ -1,2 +1,3 @@
 # linux-device-driver
-My driver repository to learn more about drivers :)
+
+My driver repository to learn more about them :)
